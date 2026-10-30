@@ -1,18 +1,20 @@
 {
-  "title": "GuideHollow Android",
+  "title": "GuideHollow",
   "slug": "android",
-  "short": "Android",
-  "hero": "Practical Android fixes, step by step.",
-  "description": "Android apps, storage, device connections and everyday settings.",
+  "short": "안드로이드",
+  "hero": "안드로이드 문제, 기기마다 다른 설정을 쉽게 찾아보세요.",
+  "description": "앱 오류, 저장 공간, 와이파이·블루투스, 배터리와 백업 방법을 단계별로 안내합니다.",
   "accent": "#51853f",
   "topics": [
-    "Apps",
-    "Storage",
-    "Connectivity",
-    "Battery",
-    "Backups",
-    "Updates"
+    "앱 실행·알림 오류",
+    "저장 공간·파일",
+    "와이파이·블루투스",
+    "배터리·충전",
+    "계정·백업",
+    "시스템 업데이트"
   ],
   "url": "https://android.guidehollow.com/",
-  "launchReady": false
+  "launchReady": false,
+  "section": "안드로이드 문제 해결",
+  "pageTitle": "안드로이드 설정·오류 해결 가이드 | GuideHollow"
 }

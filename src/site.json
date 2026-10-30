@@ -14,7 +14,8 @@
     "시스템 업데이트"
   ],
   "url": "https://android.guidehollow.com/",
-  "launchReady": false,
+  "launchReady": true,
   "section": "안드로이드 문제 해결",
-  "pageTitle": "안드로이드 설정·오류 해결 가이드 | GuideHollow"
+  "pageTitle": "안드로이드 설정·오류 해결 가이드 | GuideHollow",
+  "adsReady": false
 }

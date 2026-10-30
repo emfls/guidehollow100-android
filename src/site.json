@@ -1,0 +1,18 @@
+{
+  "title": "GuideHollow Android",
+  "slug": "android",
+  "short": "Android",
+  "hero": "Practical Android fixes, step by step.",
+  "description": "Android apps, storage, device connections and everyday settings.",
+  "accent": "#51853f",
+  "topics": [
+    "Apps",
+    "Storage",
+    "Connectivity",
+    "Battery",
+    "Backups",
+    "Updates"
+  ],
+  "url": "https://android.guidehollow.com/",
+  "launchReady": false
+}
